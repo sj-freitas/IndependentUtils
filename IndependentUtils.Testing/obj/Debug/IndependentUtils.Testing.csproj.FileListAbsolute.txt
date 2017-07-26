@@ -1,0 +1,11 @@
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\IndependentUtils.Testing.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\IndependentUtils.Testing.pdb
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\obj\Debug\IndependentUtils.Testing.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Testing\obj\Debug\IndependentUtils.Testing.pdb

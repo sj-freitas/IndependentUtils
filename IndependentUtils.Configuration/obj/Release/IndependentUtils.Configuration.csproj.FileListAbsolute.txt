@@ -1,0 +1,6 @@
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Release\IndependentUtils.Configuration.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Release\IndependentUtils.Configuration.pdb
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Release\Enums.NET.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Release\Enums.NET.xml
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\obj\Release\IndependentUtils.Configuration.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\obj\Release\IndependentUtils.Configuration.pdb

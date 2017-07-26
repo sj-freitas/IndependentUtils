@@ -1,0 +1,13 @@
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\bin\Debug\IndependentUtils.Configuration.dll
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\bin\Debug\IndependentUtils.Configuration.pdb
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\bin\Debug\Enums.NET.dll
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\bin\Debug\Enums.NET.xml
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\obj\Debug\IndependentUtils.Configuration.dll
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\obj\Debug\IndependentUtils.Configuration.pdb
+D:\Documents\Projects\PipelineUploader\IndependentUtils.Configuration\obj\Debug\IndependentUtils.Configuration.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Debug\IndependentUtils.Configuration.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Debug\IndependentUtils.Configuration.pdb
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Debug\Enums.NET.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\bin\Debug\Enums.NET.xml
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\obj\Debug\IndependentUtils.Configuration.dll
+D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration\obj\Debug\IndependentUtils.Configuration.pdb
