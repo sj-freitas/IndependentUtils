@@ -1,4 +1,0 @@
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Reflection\bin\Debug\IndependantUtils.Reflection.dll
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Reflection\bin\Debug\IndependantUtils.Reflection.pdb
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Reflection\obj\Debug\IndependantUtils.Reflection.dll
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Reflection\obj\Debug\IndependantUtils.Reflection.pdb
