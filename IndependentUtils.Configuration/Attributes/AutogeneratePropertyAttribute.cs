@@ -16,11 +16,23 @@ namespace IndependentUtils.Configuration.Attributes
         {
         }
 
+        private string _addName = "Add";
+
         private readonly string _name;
 
         public string Name => _name;
 
-        public string AddItemName { get; set; }
+        public string AddItemName
+        {
+            get
+            {
+                return _addName;
+            }
+            set
+            {
+                _addName = value;
+            }
+        }
 
         [Option]
         public object DefaultValue { get; set; }
@@ -34,11 +46,13 @@ namespace IndependentUtils.Configuration.Attributes
         [Option]
         public bool IsRequired { get; set; }
 
-        public IEnumerable<KeyValuePair<string, object>> AdditionalSettings => 
-            typeof(AutogeneratePropertyAttribute).GetProperties()
+        public IEnumerable<Tuple<string, object>> GetAllValues()
+        {
+            return typeof(AutogeneratePropertyAttribute).GetProperties()
                 .Where(t => t.GetCustomAttribute<OptionAttribute>() != null)
-                .Select(t => new KeyValuePair<string, object>(t.Name, t.GetValue(this)))
-                .Where(t => !IsDefaultValue(t.Value));
+                .Select(t => Tuple.Create(t.Name, t.GetValue(this)))
+                .Where(t => !IsDefaultValue(t.Item2));
+        }
 
         public AutogeneratePropertyAttribute(string name) => _name = name;
 

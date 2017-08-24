@@ -2,21 +2,11 @@
 
 namespace IndependentUtils.Configuration.Attributes
 {
-    public class AutogenerateSectionAttribute : Attribute
+    public sealed class AutogenerateSectionAttribute : SectionNameAttribute
     {
-        private readonly string _sectionName;
-
-        public string SectionName
-        {
-            get
-            {
-                return _sectionName;
-            }
-        }
-
         public AutogenerateSectionAttribute(string sectionName)
+            : base(sectionName)
         {
-            _sectionName = sectionName;
         }
     }
 }

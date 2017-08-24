@@ -1,6 +1,5 @@
 ﻿using IndependentUtils.Configuration.Attributes;
 using System;
-using System.Configuration;
 using System.Reflection;
 
 namespace IndependentUtils.Configuration
@@ -14,8 +13,9 @@ namespace IndependentUtils.Configuration
         /// <typeparam name="TConfigSection">The configuration section type.</typeparam>
         /// <param name="configurationManager">The configuration manager instance.</param>
         /// <returns>The existing configuration section or null if not found.</returns>
-        public static TConfigSection GetSection<TConfigSection>(this IConfigurationManager configurationManager)
-            where TConfigSection : ConfigurationSection
+        public static TConfigSection GetSection<TConfigSection>(
+            this IConfigurationManager configurationManager)
+            where TConfigSection : class
         {
             if (configurationManager == null)
             {
@@ -41,7 +41,7 @@ namespace IndependentUtils.Configuration
         /// <returns>The existing configuration section or null if not found.</returns>
         public static TConfigSection GetSection<TConfigSection>(this IConfigurationManager configurationManager,
             string sectionName)
-            where TConfigSection : ConfigurationSection
+            where TConfigSection : class
         {
             if (configurationManager == null)
             {

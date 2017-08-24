@@ -7,7 +7,7 @@ namespace IndependentUtils.Configuration.Attributes
     /// that it can be obtained in a more implicit fashion, without having to
     /// specify its name.
     /// </summary>
-    [AttributeUsage(AttributeTargets.Class)]
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Interface)]
     public class SectionNameAttribute : Attribute
     {
         private readonly string _sectionName;

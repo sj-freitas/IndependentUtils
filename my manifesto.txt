@@ -1,0 +1,11 @@
+MY MANIFESTO
+
+1) FInish my CV
+2) Create my Portfolio
+	- EndpointsFx
+	- DatabaseAbstractions
+	- FileSystemAbstractions
+3) Create PartyFinder
+4) Start working with Unity and create the GameMaker
+5) Create PROJECT 2W2 (WW2 SPY HITMAN)
+6) ...?

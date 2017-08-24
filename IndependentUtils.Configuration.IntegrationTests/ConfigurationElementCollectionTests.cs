@@ -21,7 +21,7 @@ namespace IndependentUtils.Configuration.IntegrationTests
             var defaultSection = new DefaultConfigurationManager();
 
             // Act
-            IExampleSection section = defaultSection.GetSection<ExampleSection>();
+            var section = defaultSection.GetSection<IExampleSection>();
             var importantDates = section.ImportantDates;
             var mandatoryDates = section.MandatoryDates;
             var name = section.Name;
