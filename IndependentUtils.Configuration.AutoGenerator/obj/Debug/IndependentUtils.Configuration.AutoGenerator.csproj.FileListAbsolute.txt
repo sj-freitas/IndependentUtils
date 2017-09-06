@@ -1,7 +1,0 @@
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\obj\Debug\IndependentUtils.Configuration.AutoGenerator.csprojResolveAssemblyReference.cache
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\bin\Debug\IndependentUtils.Configuration.AutoGenerator.dll
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\bin\Debug\IndependentUtils.Configuration.AutoGenerator.pdb
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\bin\Debug\IndependentUtils.Configuration.dll
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\bin\Debug\IndependentUtils.Configuration.pdb
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\obj\Debug\IndependentUtils.Configuration.AutoGenerator.dll
-D:\Documents\Projects\IndependentUtils\IndependentUtils.Configuration.AutoGenerator\obj\Debug\IndependentUtils.Configuration.AutoGenerator.pdb

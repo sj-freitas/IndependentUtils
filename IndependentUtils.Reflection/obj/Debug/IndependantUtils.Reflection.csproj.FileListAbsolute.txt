@@ -1,4 +1,0 @@
-D:\Documents\Projects\PipelineUploader\IndependantUtils.Reflection\bin\Debug\IndependantUtils.Reflection.dll
-D:\Documents\Projects\PipelineUploader\IndependantUtils.Reflection\bin\Debug\IndependantUtils.Reflection.pdb
-D:\Documents\Projects\PipelineUploader\IndependantUtils.Reflection\obj\Debug\IndependantUtils.Reflection.dll
-D:\Documents\Projects\PipelineUploader\IndependantUtils.Reflection\obj\Debug\IndependantUtils.Reflection.pdb
