@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IndependentUtils.Tools</id>
+    <version>1.0.0</version>
+    <authors>SergioFreitas1990</authors>
+    <owners>SergioFreitas1990</owners>
+    <licenseUrl>https://github.com/sergioFreitas1990/IndependentUtils/</licenseUrl>
+    <projectUrl>https://github.com/sergioFreitas1990/IndependentUtils/</projectUrl>
+    <iconUrl>https://github.com/sergioFreitas1990/IndependentUtils/blob/master/IndependentUtils.Configuration/icon.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Testing.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+</package>
