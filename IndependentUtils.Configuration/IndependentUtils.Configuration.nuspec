@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AbstractedAppConfig</id>
+    <version>1.0.0</version>
+    <authors>SergioFreitas1990</authors>
+    <owners>SergioFreitas1990</owners>
+    <licenseUrl>https://github.com/sergioFreitas1990/IndependentUtils/</licenseUrl>
+    <projectUrl>https://github.com/sergioFreitas1990/IndependentUtils/</projectUrl>
+    <iconUrl>https://github.com/sergioFreitas1990/IndependentUtils/blob/master/IndependentUtils.Configuration/icon.png?raw=true</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package allows for the configuration manager to be consumed as an interface and also provides attributes for quick configuration section making with another tool.</description>
+    <releaseNotes>Created the package for the first time.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Configuration ConfigurationManager ConfigurationSection</tags>
+  </metadata>
+</package>
